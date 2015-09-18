@@ -4,17 +4,21 @@ This repository aims at being a database of Tibetan verbs in their four forms (p
 
 To access the database directly, click on [db.csv](db.csv).
 
+## News
+
+The [verbiator](verbinator.xml) by Nathan Hill is now included! Nathan Hill allowed the publication of his source file under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed) license. We are currently working on its integration
+
 ## Sources
 
 Its sources (tagged in each verb) are TDC,GT, PH and KN, see [bibliography](https://github.com/eroux/tibetan-spellchecker/blob/master/doc/bibliography.md) for references.
 
 Other sources would be welcome:
 
-- དག་ཡིག་གསར་བསྒྲིག།, unknown date (quite recent), apparently a reference in Tibet
+- དག་ཡིག་གསར་བསྒྲིག dictionary
 
 Sources purposedly not included:
 
-- བོད་སྐད་ཀྱི་བརྡ་སྤྲོད་གསར་བསྒྲིགས་སྨྲ་སྒོའི་ལྡེ་མིག by གླང་རི་བ་ཐུབ་བསྟན་སྦྱིན་པས་བརྩམས, 2010 (controversial and mosty covered by this list, differences look like mistakes)
+- བོད་སྐད་ཀྱི་བརྡ་སྤྲོད་གསར་བསྒྲིགས་སྨྲ་སྒོའི་ལྡེ་མིག by གླང་རི་བ་ཐུབ་བསྟན་སྦྱིན་པ།, 2010 (mosty covered by this list, differences look like mistakes)
 
 ## Notes
 
@@ -54,7 +58,9 @@ There are dozens of Tibetan books and dictionaries about verbs, contributions ar
 
 ## What about copyright?
 
-There is (to the extend of the author's knowledge) no copyright on languages, so no copyright on grammar. According to their authors, these lists are part of the Tibetan grammar (each grammarian thinks his verb list is the real Tibetan verb list), so there is no copyright on the verb list. 
+Nathan Hill explicitely allowed distribution of his data under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed) license.
+
+For other files, there is (to the extend of the author's knowledge) no copyright on languages, so no copyright on grammar. According to their authors, these lists are part of the Tibetan grammar (each grammarian thinks his verb list is the real Tibetan verb list), so there is no copyright on the verb list. 
 
 There is a copyright on the source books edition and also on the definition of the verbs given in these sources, but these do no appear in this database.
 
