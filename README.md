@@ -22,7 +22,7 @@ Sources purposedly not included:
 
 ## Notes
 
-The auxiliary ཤོག་ present in PH has not been added in this database.
+The auxiliary ཤོག present in PH has not been added in this database.
 
 Some verbs appear in the main section of the TDC but not in the verb list at the end (འཁུས for instance), they are noted as included in the TDC. For some of these, the different tense forms do not appear in the dictionnary, so only the present form is indicated.
 
